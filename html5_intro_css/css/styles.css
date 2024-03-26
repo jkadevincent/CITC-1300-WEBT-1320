@@ -1,0 +1,60 @@
+body{
+    background-color: cadetblue;
+}
+
+#container {
+    background-color: white;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    border: 4px solid black;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 70px;
+    color: cadetblue;
+    text-shadow: 2px 2px 5px black;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: cadetblue;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+nav a hover {
+    color: black;
+    text-decoration: none;
+
+}
+
+main img {
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+}
+
+a {
+    color: cadetblue;
+}
+
+a hover {
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    padding: 40px;
+    text-align: center;
+
+}
+
+h3 {
+    font-size: 23px;
+}
